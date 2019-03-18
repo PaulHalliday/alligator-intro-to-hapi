@@ -1,0 +1,19 @@
+{
+  "name": "hapi-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paul Halliday",
+  "license": "MIT",
+  "dependencies": {
+    "good": "8.1.2",
+    "good-console": "8.0.0",
+    "good-squeeze": "5.1.0",
+    "hapi": "18.1.0",
+    "inert": "5.1.2"
+  }
+}
